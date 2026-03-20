@@ -1,4 +1,4 @@
-# website-opener
+# Website-Opener
 automatic website opener coded on Python!
 
 
